@@ -17,6 +17,7 @@ A sample of my recent articles:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oooezy&theme=swift&repo=CountdownTimer)](https://github.com/oooezy/CountdownTimer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oooezy&theme=swift&repo=NewsApp)](https://github.com/oooezy/NewsApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oooezy&theme=swift&repo=chatApp)](https://github.com/oooezy/chatApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oooezy&theme=swift&repo=Algorithms)](https://github.com/oooezy/Algorithms)
 
 
 
